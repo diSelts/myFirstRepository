@@ -1,3 +1,3 @@
 # myFirstRepository
-for training
+for training,
 this is my first repository
